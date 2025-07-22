@@ -296,7 +296,7 @@ Les contributions sont très bienvenues ! Pour contribuer :
 - 📧 **Contact** : Via LinkedIn pour discussions professionnelles
 
 ### 🏆 À Propos de ce Projet
-Ce dashboard représente plusieurs mois de travail d'analyse approfondie du développement sénégalais. Il combine expertise technique en data science et compréhension des enjeux de développement africain. L'objectif est de fournir un outil d'aide à la décision basé sur des données probantes pour les acteurs du développement au Sénégal.
+Ce dashboard représente est une analyse approfondie du développement sénégalais. Il combine expertise technique en data science et compréhension des enjeux de développement africain. L'objectif est de fournir un outil d'aide à la décision basé sur des données probantes pour les acteurs du développement au Sénégal.
 
 ---
 
